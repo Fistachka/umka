@@ -1,7 +1,8 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
-<img width="1412" height="921" alt="з1" src="https://github.com/user-attachments/assets/fc4b5b88-1475-47c2-9d45-d9615a58aa4c" />
+![](https://github.com/user-attachments/assets/fc4b5b88-1475-47c2-9d45-d9615a58aa4c)
+
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/BHa0EZoctjw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoQBHYZdkuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -9,10 +10,8 @@
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![deer-6932271_1280](https://github.com/user-attachments/assets/e892a67e-f106-42c1-aa85-b4e2165d6ba2)
+![](https://github.com/user-attachments/assets/fc4b5b88-1475-47c2-9d45-d9615a58aa4c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Yh3_0keVH_0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZxyaC5_WoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe><br><br>
-
-![](https://github.com/user-attachments/assets/fc4b5b88-1475-47c2-9d45-d9615a58aa4c)
 
