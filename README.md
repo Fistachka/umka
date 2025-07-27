@@ -1,6 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-
+«Колыбельная медведицы» 1 куплет
 ![](https://github.com/user-attachments/assets/fc4b5b88-1475-47c2-9d45-d9615a58aa4c)
 
 
@@ -17,6 +17,7 @@
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
+"The Bear's Lullaby" (Kolybel'naya medvedicy) 1 part
 ![](https://github.com/user-attachments/assets/fc4b5b88-1475-47c2-9d45-d9615a58aa4c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/E_QANMn_H9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
