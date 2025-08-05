@@ -5,7 +5,7 @@
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/idIQIBY-iSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JoQBHYZdkuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Ложкой снег мешая,
 Ночь идет большая,
@@ -21,7 +21,7 @@
 ![](https://github.com/user-attachments/assets/fc4b5b88-1475-47c2-9d45-d9615a58aa4c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/E_QANMn_H9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZxyaC5_WoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Lozhkoj sneg meshaya,
 Noch' idet bol'shaya,
