@@ -30,4 +30,5 @@ Spyat tvoi sosedi -
 Belye medvedi,
 Spi skorej i ty, malysh.
 <br><br>
+![](https://github.com/user-attachments/assets/9bf52e5a-dd18-481b-8b01-9257918b4cd1)
 
